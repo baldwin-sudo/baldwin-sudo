@@ -6,7 +6,9 @@
   
 
 - 🌱 I’m currently learning **Rust idioms , advanced deeplearning topics(NLP , image processing ... ) .... ,**
-  
+
+
+- 🌱 I’m currently learning **Go idioms , advanced concurrency .... ,**
   
 
 - 👯 I’m looking to collaborate on **anything related to systems programming and deeplearning related .**  
