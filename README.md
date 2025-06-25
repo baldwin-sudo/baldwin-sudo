@@ -76,8 +76,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baldwin-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldwin-sudo&theme=tokyonight&hide_border=true&layout=compact" width="47%" />
-</div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldwin-sudo&hide=html,css&theme=tokyonight&layout=compact&hide_border=true" /></div>
 
 ---
 
