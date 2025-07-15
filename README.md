@@ -1,8 +1,8 @@
 <h2 align="center">Hey, I'm Mehdi — A Passionate Computer Science Student</h2>  
 
 
-
 ### 🔧 Projects I'm Working On  
+
 
 -  Building a [CLI tool in Rust for image processing](https://github.com/baldwin-sudo/image-processor.git) — supports compression, filtering, and more  
 - Developing a [Deep Learning framework in Rust](https://github.com/baldwin-sudo/deep-learning-rs.git) — contribute or help welcome!
@@ -32,43 +32,65 @@
 ##  My Skill Set  
 
 ###  Frontend  
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" height="40" />
+<div align="center"><p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+
 </div>  
 
 ###  ML / Data Science  
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="40" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
 </div>
 
 ### Backend & DB  
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" />
-</div>  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </p>
+</div>
+
 
 ### DevOps & Tools  
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40" />
+ <p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
 </div>
+
+### Languages I'm familiar with 
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
 
 ---
 
