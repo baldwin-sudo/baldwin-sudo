@@ -4,9 +4,7 @@
 ### 🔧 Projects I'm Working On  
 
 
--  Building a [CLI tool in Rust for image processing](https://github.com/baldwin-sudo/image-processor.git) — supports compression, filtering, and more  
-- Developing a [Deep Learning framework in Rust](https://github.com/baldwin-sudo/deep-learning-rs.git) — contribute or help welcome!
-
+-  Building a reverse proxy / load balancer using Golang (https://github.com/baldwin-sudo/go-reverse-proxy.git) —
 ---
 
 ### 🌱 What I’m Learning  
