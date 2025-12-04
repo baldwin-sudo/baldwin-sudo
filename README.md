@@ -3,14 +3,14 @@
 
 ### 🔧 Projects I'm Working On  
 
-
--  Building a reverse proxy / load balancer using Golang (https://github.com/baldwin-sudo/go-reverse-proxy.git) —
+-  building a json to yaml converter from scratch ( tokenizer -> parser ->  ...) in rust . 
 ---
 
 ### 🌱 What I’m Learning  
 - Rust idioms and systems-level design  
 - Deep learning (NLP, vision, architecture optimization)  
-- Go concurrency and systems design patterns  
+- Go concurrency and systems design patterns
+- Java/Jee and the Spring framework ecosystem for backend development .
 
 ---
 
