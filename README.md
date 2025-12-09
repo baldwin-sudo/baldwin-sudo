@@ -3,7 +3,7 @@
 
 ### 🔧 Projects I'm Working On  
 
--  building a json to yaml converter from scratch ( tokenizer -> parser ->  ...) in rust . 
+-  building a json parser( tokenizer -> parser ->  ...) in rust . 
 ---
 
 ### 🌱 What I’m Learning  
