@@ -1,115 +1,104 @@
-<h2 align="center">Hey, I'm Mehdi — A Passionate Computer Science Student</h2>  
+<h1 align="center">baldwin-sudo</h1>
+<h3 align="center">Computer Science Student &nbsp;·&nbsp; Systems &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Low-Level Development</h3>
 
-
-### 🔧 Projects I'm Working On  
-
--  building a json parser( tokenizer -> parser ->  ...) in rust . 
----
-
-### 🌱 What I’m Learning  
-- Rust idioms and systems-level design  
-- Deep learning (NLP, vision, architecture optimization)  
-- Go concurrency and systems design patterns
-- Java/Jee and the Spring framework ecosystem for backend development .
-
----
-
-### 🤝 I’m Open To  
-- Collaborating on **systems programming**, **DL/NLP**, or **image processing** tools  
-- Contributions or reviews on my Rust-based deep learning project  
-- Learning together — reach out!
-
----
-
-### 📫 Reach Me At  
-**📧** kasmimehdi561@gmail.com  
-**🔗** [LinkedIn](https://linkedin.com/in/elmehdi%20kasmi) • [GitHub](https://github.com/baldwin-sudo) • [Kaggle](https://www.kaggle.com/AshenOneBot1)  
-
----
-
-##  My Skill Set  
-
-###  Frontend  
-<div align="center"><p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-</p>
-
-
-</div>  
-
-###  ML / Data Science  
-<div align="center">
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
-</div>
-
-### Backend & DB  
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </p>
-</div>
-
-
-### DevOps & Tools  
-<div align="center">
- <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
-</div>
-
-### Languages I'm familiar with 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <a href="https://linkedin.com/in/elmehdi%20kasmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/baldwin-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/AshenOneBot1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:kasmimehdi561@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=baldwin-sudo&style=flat-square&color=0077B5" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## About
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baldwin-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baldwin-sudo&hide=html,css&theme=tokyonight&layout=compact&hide_border=true" /></div>
+Computer Science student with a focus on systems programming, AI/ML, and high-performance computing. I prefer understanding how things work at a fundamental level — building from scratch when it leads to deeper insight.
+
+Currently working at the intersection of **C++ systems design** and **Python/C++ interoperability** for ML-critical workloads. Interested in how low-level performance engineering can accelerate AI research and deployment.
 
 ---
 
-## Connect with Me  
+## Current Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| -| - | -|
+
+---
+
+## Areas of Focus
+
+- **C++** — memory model, templates, modern C++17/20, performance-oriented design
+- **Python/C++ Bindings** — pybind11, ctypes, Cython for accelerating ML workloads
+- **Deep Learning** — NLP, computer vision, architecture optimization
+- **Go** — concurrency patterns and distributed systems design
+- **Spring Framework** — Java/JEE backend architecture
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![pybind11](https://img.shields.io/badge/pybind11-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**DevOps & Tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/baldwin-sudo"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/elmehdi%20kasmi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/AshenOneBot1"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baldwin-sudo&theme=github" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baldwin-sudo&theme=github&exclude=html,css" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baldwin-sudo&theme=github&exclude=html,css" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baldwin-sudo&theme=github" width="32%" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baldwin-sudo&style=flat-square&color=blue" />
-</div>
+## Open To
+
+- Collaborating on systems programming, C++/Python performance tooling, or DL/NLP projects
+- Code reviews or contributions on low-level or ML-adjacent work
+- Reach out at **kasmimehdi561@gmail.com**
