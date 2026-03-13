@@ -33,7 +33,7 @@ Currently working at the intersection of **C++ systems design** and **Python/C++
 - **Python/C++ Bindings** — pybind11, ctypes, Cython for accelerating ML workloads
 - **Deep Learning** — NLP, computer vision, architecture optimization
 - **Go** — concurrency patterns and distributed systems design
-- **Spring Framework** — Java/JEE backend architecture
+
 
 ---
 
